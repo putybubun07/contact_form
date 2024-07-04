@@ -1,0 +1,27 @@
+h1{
+    background-color:aqua;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+p{
+    padding: 10px;
+    text-align: left;
+}
+input{
+
+    color: rgb(16, 198, 34);
+    
+    
+    
+}
+.button{
+    background-color:rgb(31, 245, 31);
+    color:white;
+    width: 130px;
+    
+}
+input{
+     width: 400px;
+     height: 40px;
+}
